@@ -1,0 +1,8 @@
+name: web-viewer
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - nodejs==11.14.0
