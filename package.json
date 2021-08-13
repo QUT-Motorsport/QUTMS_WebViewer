@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@xeokit/xeokit-sdk": "^0.8.8",
-    "next": "^9.2.1",
+    "next": "^11.1.0",
     "next-transpile-modules": "^3.0.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
